@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@android:color/black">
+
+    <EditText
+        android:id="@+id/edtNome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nome"
+        android:textColorHint="@android:color/white"
+        android:textColor="@android:color/white"
+        android:background="@android:drawable/edit_text" />
+
+    <EditText
+        android:id="@+id/edtTamanho"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tamanho"
+        android:textColorHint="@android:color/white"
+        android:textColor="@android:color/white"
+        android:background="@android:drawable/edit_text" />
+
+    <EditText
+        android:id="@+id/edtCor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Cor"
+        android:textColorHint="@android:color/white"
+        android:textColor="@android:color/white"
+        android:background="@android:drawable/edit_text" />
+
+    <EditText
+        android:id="@+id/edtMarca"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Marca"
+        android:textColorHint="@android:color/white"
+        android:textColor="@android:color/white"
+        android:background="@android:drawable/edit_text" />
+
+    <EditText
+        android:id="@+id/edtTipo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tipo"
+        android:textColorHint="@android:color/white"
+        android:textColor="@android:color/white"
+        android:background="@android:drawable/edit_text" />
+
+    <EditText
+        android:id="@+id/edtPreco"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Preço"
+        android:textColorHint="@android:color/white"
+        android:textColor="@android:color/white"
+        android:background="@android:drawable/edit_text" />
+
+    <Button
+        android:id="@+id/btnSalvar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Salvar"
+        android:textColor="@android:color/white"
+        android:background="?attr/colorPrimary" />
+
+</LinearLayout>

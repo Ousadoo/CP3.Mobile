@@ -13,6 +13,6 @@ class InformacoesActivity : AppCompatActivity() {
         setContentView(R.layout.activity_informacoes)
 
         txtInformacoes = findViewById(R.id.txtInformacoes)
-        txtInformacoes.text = "App desenvolvido por [Vinicius e Fabio].\nEste é um aplicativo para gerenciar roupas."
+        txtInformacoes.text = "App desenvolvido por [Vinicius e Pedro].\nEste é um aplicativo para gerenciar roupas."
     }
 }

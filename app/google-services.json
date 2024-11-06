@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400629801081",
+    "project_id": "cp4-mob",
+    "storage_bucket": "cp4-mob.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400629801081:android:e0d9fee504c6da3f8634a8",
+        "android_client_info": {
+          "package_name": "com.example.cp3_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkg4h-wZO6ZIS0unooDUzBOvgvacE4KK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
